@@ -1,1 +1,2 @@
 file is in git repository
+i created the file in git hub
